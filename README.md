@@ -25,3 +25,4 @@ In the highly competitive telecommunications sector, the cost of acquiring a new
 * `Capstone_Project.ipynb`: Full Python code for analysis and modeling.
 * `Project_Proposal.pdf`: The initial design and academic references for the project & Comprehensive documentation of results.
 
+*Developed by Ghaida Alharbi*
