@@ -23,6 +23,5 @@ In the highly competitive telecommunications sector, the cost of acquiring a new
 
 ## 📂 Project Structure
 * `Capstone_Project.ipynb`: Full Python code for analysis and modeling.
-* `Project_Proposal.pdf`: The initial design and academic references for the project.
-* `Project_Report.pdf`: (If available) Comprehensive documentation of results.
+* `Project_Proposal.pdf`: The initial design and academic references for the project & Comprehensive documentation of results.
 
